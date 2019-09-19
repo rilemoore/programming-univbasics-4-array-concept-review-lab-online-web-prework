@@ -10,7 +10,7 @@ def find_element_index(array, value_to_find)
       
   end
   
-  return returnValue
+  returnValue
   # Add your solution here
 end
 
